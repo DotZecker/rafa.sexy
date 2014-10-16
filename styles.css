@@ -75,3 +75,9 @@ a:hover {
 .social a:hover {
     -webkit-transform: rotate(7deg);
 }
+
+@media (max-width: 768px) {
+    .im-fucking-awesome {
+        font-size: 2em;
+    }
+}
