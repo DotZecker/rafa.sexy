@@ -63,6 +63,10 @@ a:hover {
     cursor: none;
 }
 
+.im-sexy-and-you-know-it:hover {
+    text-shadow: 0 0 12px rgba(255, 20, 147, .3);
+}
+
 .text-effect {
     transition: all 200ms;
 }
@@ -70,6 +74,7 @@ a:hover {
 .im-sexy-and-you-know-it:hover .text-effect:nth-child(odd) {
     margin-right: .7em;
 }
+
 .im-sexy-and-you-know-it:hover .text-effect:nth-child(even) {
     margin-left: .7em;
 }
