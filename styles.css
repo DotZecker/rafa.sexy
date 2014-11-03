@@ -35,8 +35,6 @@ a:hover {
     left: 0;
     right: 0;
     bottom: 0;
-    filter: blur(10px);
-    -webkit-filter: blur(10px);
     opacity: .8;
 }
 
@@ -48,7 +46,7 @@ a:hover {
     left: -40px;
     background-size: cover;
     background-position: center;
-    background-image: url(http://photos-d.ak.instagram.com/hphotos-ak-xaf1/10707165_298422577030771_989334332_n.jpg);
+    background-image: url(./sexy.jpg);
 }
 
 .im-fucking-awesome {
