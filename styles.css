@@ -44,9 +44,8 @@ a:hover {
     bottom: -40px;
     right: -40px;
     left: -40px;
+    background: url(./sexy.jpg) center;
     background-size: cover;
-    background-position: center;
-    background-image: url(./sexy.jpg);
 }
 
 .im-fucking-awesome {
@@ -98,6 +97,8 @@ a:hover {
 
 .social a:hover {
     -webkit-transform: rotate(7deg);
+    -ms-transform: rotate(7deg);
+    transform: rotate(7deg);
 }
 
 @media (max-width: 768px) {
